@@ -6,4 +6,12 @@ Building Generative AI Applications is jointly offered by **The Open University 
 
 Through the BCS Jaseci Lab ecosystem, learners gain practical experience in integrating and deploying AI applications. With AI transforming healthcare, agriculture, finance, education, and transportation, this program prepares you for high-impact roles in the AI-driven economy.
 
-#Curriculum
+## Curriculum
+1. Week 1: Course Launch & the Generative AI Wave
+2. Week 2: Foundations of AI, ML & Deep Learning
+3. Week 3: Sequence Models & Transformer Evolution
+4. Week 4: GPT Architecture (GPT-1 to GPT-5)
+5. Week 5–8: Advanced Models, Agentic AI & Multimodal Systems
+6. Tutorials (Week 4–8)
+7. Hackathon (Week 9–10)
+8. Certificate of Completion
