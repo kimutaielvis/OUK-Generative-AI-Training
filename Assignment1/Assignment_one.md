@@ -1,4 +1,4 @@
-# Quiz Game in Jac (Step 0 → Step 6)
+# Quiz Game in Jac
 This repository showcases the progressive development of a Quiz Game using Jac, starting from a simple script and evolving into an AI-powered interactive game.
 
 The goal of this project is to demonstrate:
