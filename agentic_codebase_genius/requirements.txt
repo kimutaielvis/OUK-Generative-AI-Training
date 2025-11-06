@@ -1,0 +1,7 @@
+jaseci==1.4.0.20  # Or latest; includes byLLM
+gitpython
+tree-sitter
+tree-sitter-python
+python-dotenv
+requests
+streamlit>=1.38.0
